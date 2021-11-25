@@ -1,0 +1,8 @@
+root[kthreadd]
+root[kworker/0:0H-events_highpri]
+root[mm_percpu_wq]
+root[rcu_gp]
+root[rcu_par_gp]
+root[rcu_tasks_rude_]
+root/sbin/init
+USERCOMMAND

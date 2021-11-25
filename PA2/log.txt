@@ -1,0 +1,156 @@
+awk '{print $1$11}' < test.txt
+
+awk '{print $1$11}'
+
+awk
+
+{print $1$11}
+
+head -10
+
+echo "AWD AWD AWD
+
+AWD AWD"
+
+awk '{print $1$11}'<test.txt
+
+awk '{print $1$11}'
+
+awk
+
+{print $1$11}
+
+ls -ltr
+
+grep shell > output.txt
+
+awk '{print $1$11}'<test.txt
+
+awk '{print $1$11}'
+
+awk
+
+{print $1$11}
+
+awk '{print $1$11}' < test.txt
+
+awk '{print $1$11}'
+
+awk
+
+{print $1$11}
+
+head -10
+
+head -9
+
+head -8
+
+sort > output.txt
+
+grep /init
+
+grep
+
+/init
+
+ls -l
+
+grep shell
+
+ps aux
+
+awk '/init/{print $1}'
+
+sort -r
+
+ps aux
+
+awk '/init/{print $1}'
+
+sort -r
+
+awk '/ro/'
+
+grep ro
+
+ps aux
+
+awk '{print $1$11}'
+
+sort -r
+
+grep root
+
+awk '{print $1$11}' < test.txt
+
+awk '{print $1$11}'
+
+awk
+
+{print $1$11}
+
+head -10
+
+head -9
+
+head -8
+
+sort > output.txt
+
+grep /init
+
+grep
+
+/init
+
+grep /init
+
+grep
+
+/init
+
+ls -l
+
+grep shell
+
+ps aux
+
+awk '/init/{print $1}'
+
+sort -r
+
+ps aux
+
+awk '/init/{print $1}'
+
+sort -r
+
+awk '/ro/'
+
+grep ro
+
+ps aux
+
+awk '{print $1$11}'
+
+sort -r
+
+grep root
+
+awk '{print $1$11}' < test.txt
+
+awk '{print $1$11}'
+
+awk
+
+{print $1$11}
+
+head -10
+
+head -9
+
+head -8
+
+sort > output.txt
+
